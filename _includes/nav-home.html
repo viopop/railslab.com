@@ -1,0 +1,7 @@
+<nav class="text-right" role="navigation">
+  <ul class="list-unstyled list-inline">
+    {% for page in pages %}
+      <li><a data-scroll-to="#{{page.meta.section_id}}" data-scroll-offset="-65">{{page.meta.nav_title | fallback:page.title}}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
