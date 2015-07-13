@@ -1,5 +1,7 @@
-{% if meta.logo_light == true %}
+{% if meta.logo_version == "light" %}
   {% include 'includes/logo-light' %}
+{% elsif meta.logo_version == "color" %}
+  {% include 'includes/logo-color' %}
 {% else %}
   {% include 'includes/logo-dark' %}
 {% endif %}
