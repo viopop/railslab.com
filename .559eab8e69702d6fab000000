@@ -1,12 +1,12 @@
 ---
-time: 1436773715
+time: 1436773931
 inventory:
   "/home/index.html":
-    md5: b50e977936ce762a0a728f142f150569
-    time: 1436773714
+    md5: 59622aa4024e0ea2d8e91cae5b094638
+    time: 1436773929
   "/index.html":
-    md5: b50e977936ce762a0a728f142f150569
-    time: 1436773714
+    md5: 59622aa4024e0ea2d8e91cae5b094638
+    time: 1436773929
   "/thanks/index.html":
     md5: 8e4cfcf70d56c7038c45156da3fbe4aa
     time: 1436773606
@@ -17,8 +17,8 @@ inventory:
     md5: 69460a4ea47ce8123c0721c88bc675a0
     time: 1436773607
   "/home/contact-railslab/index.html":
-    md5: 1cbaa32a18baccdeddc6ab22b490ab3c
-    time: 1436773607
+    md5: c7ec5bae35720f38d23dabe0ed9c686d
+    time: 1436773929
   "/CNAME":
     md5: e66f11381ab3ad19f8f2feb2ff0adf36
     time: 1436772856
@@ -26,8 +26,8 @@ inventory:
     md5: e9a9e56f87ac12affb24a4c42498b4e5
     time: 1436773607
   "/feed.xml":
-    md5: 7f0b52bee2bfb8db32aa83220d5ecc3c
-    time: 1436773714
+    md5: abaf7998428195bd44cd7ef95ecdf428
+    time: 1436773929
   "/_assets/images/header-home.jpg":
     md5: b9f5c7683d1be88f9265550270fd511e
     time: 1436772856
