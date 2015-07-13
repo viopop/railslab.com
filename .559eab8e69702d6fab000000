@@ -1,5 +1,5 @@
 ---
-time: 1436772869
+time: 1436773609
 inventory:
   "/home/index.html":
     md5: eb0d21cfdb30d830df52692095574307
@@ -7,27 +7,27 @@ inventory:
   "/index.html":
     md5: eb0d21cfdb30d830df52692095574307
     time: 1436772855
+  "/thanks/index.html":
+    md5: 8e4cfcf70d56c7038c45156da3fbe4aa
+    time: 1436773606
   "/home/about/index.html":
-    md5: 6aa511aca5a2fdfd3228be10e46b83c2
-    time: 1436772856
+    md5: 40e54fbdaabcf699e1db255910188e99
+    time: 1436773607
   "/home/team/index.html":
-    md5: 0faa7551bb4a3059de9e3188a690b930
-    time: 1436772856
+    md5: 69460a4ea47ce8123c0721c88bc675a0
+    time: 1436773607
   "/home/contact-railslab/index.html":
-    md5: db7c8093685819f96b534681657ca509
-    time: 1436772856
+    md5: 1cbaa32a18baccdeddc6ab22b490ab3c
+    time: 1436773607
   "/CNAME":
     md5: e66f11381ab3ad19f8f2feb2ff0adf36
     time: 1436772856
   "/sitemap.xml":
-    md5: 73a2734be364b234750654d08acd7581
-    time: 1436772856
+    md5: e9a9e56f87ac12affb24a4c42498b4e5
+    time: 1436773607
   "/feed.xml":
-    md5: 90d6adac6bcc96d71ec7a76d8ca54b7a
-    time: 1436772856
-  "/style.css":
-    md5: 9187a6775bdce8f1f2143accea89ba6c
-    time: 1436772856
+    md5: e30a0941f33badc984bbefad8486010f
+    time: 1436773607
   "/_assets/images/header-home.jpg":
     md5: b9f5c7683d1be88f9265550270fd511e
     time: 1436772856
@@ -79,9 +79,6 @@ inventory:
   "/_assets/stylesheets/media-queries.scss":
     md5: 419d73313bd1f83e54b30f8bb263b812
     time: 1436772860
-  "/_assets/stylesheets/public.scss":
-    md5: 91dcbbe4c5ff5cebf9d9d1465766614e
-    time: 1436772860
   "/_assets/stylesheets/sticky-footer-ie.scss":
     md5: ee47dbca37e8ab9e63c619e9e53f51ba
     time: 1436772860
@@ -115,9 +112,6 @@ inventory:
   "/assets/stylesheets/home.css":
     md5: 4ef32ac25b6581764dacf7ffc98fb2b2
     time: 1436772865
-  "/assets/stylesheets/public.css":
-    md5: ef2b07a40093f11c6e3935cdd499a29e
-    time: 1436772865
   "/assets/stylesheets/sticky-footer-ie.css":
     md5: fde5643ffbdf7d7d9158b62f905c9005
     time: 1436772865
@@ -133,3 +127,9 @@ inventory:
   "/Guardfile":
     md5: a2a567d3b2ea6662514bc884637bb70c
     time: 1436772866
+  "/_assets/stylesheets/public.scss":
+    md5: a15f9acb02dd8776de60338c4a613aa4
+    time: 1436773607
+  "/assets/stylesheets/public.css":
+    md5: e6524a74c74d95d10947f0d5259b1817
+    time: 1436773607

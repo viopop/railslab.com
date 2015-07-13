@@ -20,7 +20,7 @@ nav {
   a { text-transform: uppercase; }
 }
 header.page {
-  .container { padding-top: 10px; padding-bottom: 10px; }
+  .container { padding-top: 25px; padding-bottom: 10px; }
   nav { margin-top: 5px; }
   .header-fixed {
     position: fixed; z-index: 10000; top: 0; left: 0; width: 100%; background-color: $dark-gray; opacity: 0; visibility: hidden;
