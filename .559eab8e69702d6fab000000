@@ -1,33 +1,33 @@
 ---
-time: 1440441456
+time: 1458017859
 inventory:
   "/home/index.html":
-    md5: ea8e6bbbd580c64f4056c7173d960bf8
-    time: 1440441452
+    md5: ffaabfdf970c53a86f6696a7e00f730b
+    time: 1458017856
   "/index.html":
-    md5: ea8e6bbbd580c64f4056c7173d960bf8
-    time: 1440441452
+    md5: ffaabfdf970c53a86f6696a7e00f730b
+    time: 1458017856
   "/thanks/index.html":
-    md5: 8e4cfcf70d56c7038c45156da3fbe4aa
-    time: 1436773606
+    md5: 5b45279392bb9e6800051c8614938a18
+    time: 1458017856
   "/home/about/index.html":
-    md5: 85599dc0b359759c1ed54f3cddfeaf23
-    time: 1440441452
+    md5: 6c27ee0520432bf062c2429fcdd50fdd
+    time: 1458017856
   "/home/team/index.html":
-    md5: 7a21633c0ef8619c872ba73d758a96ba
-    time: 1440441453
+    md5: 6f9c5cd97b29ae106b843e8bab47f928
+    time: 1458017856
   "/home/contact-railslab/index.html":
-    md5: e96400b1816f972f75e3d164c8049c21
-    time: 1440441453
+    md5: 86a15f26f30421902e49df73192284e1
+    time: 1458017856
   "/CNAME":
     md5: e66f11381ab3ad19f8f2feb2ff0adf36
     time: 1436772856
   "/sitemap.xml":
-    md5: 6b0f593c5e23a24673821ae81397b7bb
-    time: 1440441453
+    md5: 83dab27d464acce57bd32de28e385c2a
+    time: 1458017856
   "/feed.xml":
-    md5: ad88fa180085d3a5f5b42d218acbd771
-    time: 1440441453
+    md5: 9fe5ff484ec18af2c6dd748384e19db1
+    time: 1458017856
   "/_assets/images/header-home.jpg":
     md5: b9f5c7683d1be88f9265550270fd511e
     time: 1436772856
